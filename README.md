@@ -1,1 +1,1 @@
-# COSC1410
+# COSC1410Storing old code from Intro to Computer Science I as a reminder
